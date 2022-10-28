@@ -1,5 +1,5 @@
-whats happening when u call a index page events happening
-life cycle of page or compnent
+what's happening when u call a index page 
+life cycle of page or component
 diff bw class and functional component
 where is index.js refered in index.html page
 
