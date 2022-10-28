@@ -1,0 +1,10 @@
+whats happening when u call a index page events happening
+life cycle of page or compnent
+diff bw class and functional component
+where is index.js refered in index.html page
+
+
+Lifecycle of React Component:
+Each component in React has a lifecycle which you can monitor and manipulate during its three main phases.
+
+The three phases are: Mounting, Updating, and Unmounting.
